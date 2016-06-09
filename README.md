@@ -27,3 +27,12 @@ Do like above and go to Zipkin url. Note the:
 * The custom event from DateService
  
 * The dependency tab
+
+
+# Side  note: Image credits
+
+Images in the presentation are from:
+
+* [The Sleuth - http://www.thegoldqueen.com](http://www.thegoldqueen.com/wp-content/uploads/2011/03/15-sleuth-large.jpg)
+
+* [The Span/Trace visualization - http://cloud.spring.io/spring-cloud-sleuth/spring-cloud-sleuth.html](https://raw.githubusercontent.com/spring-cloud/spring-cloud-sleuth/master/docs/src/main/asciidoc/images/trace-id.png)
