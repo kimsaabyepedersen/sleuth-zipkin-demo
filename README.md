@@ -1,12 +1,12 @@
-# slueth-zipkin-demo
+# sleuth-zipkin-demo
 
-This project demos Spring Cloud Slouth and Zipkin
+This project demos Spring Cloud Sleuth and Zipkin
 
-Start by viewing [SLEUTH + ZIPKIN.pdf](https://github.com/kimsaabyepedersen/slueth-zipkin-demo/blob/master/SLEUTH%20%2B%20ZIPKIN.pdf)
+Start by viewing [SLEUTH + ZIPKIN.pdf](https://github.com/kimsaabyepedersen/sleuth-zipkin-demo/blob/master/SLEUTH%20%2B%20ZIPKIN.pdf)
 
-## SLUTH
+## SLEUTH
 
-Start slueth sub project & someapp sub project via their respective main methods:
+Start sleuth sub project & someapp sub project via their respective main methods:
 
 
 Call / and /getLocalTime in sluth app from browser and note that (view the logs):
