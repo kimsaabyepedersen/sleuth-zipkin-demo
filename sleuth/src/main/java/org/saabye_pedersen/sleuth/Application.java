@@ -1,4 +1,4 @@
-package org.saabye_pedersen.sluth;
+package org.saabye_pedersen.sleuth;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

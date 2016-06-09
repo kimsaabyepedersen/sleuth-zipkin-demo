@@ -1,4 +1,4 @@
-package org.saabye_pedersen.sluth;
+package org.saabye_pedersen.sleuth;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
